@@ -1,0 +1,426 @@
+﻿FeedbackID,Date,Branch,Channel,Rating,Comment,Rating Label,Bilingual Rules,TF-IDF Logistic,Multinomial NB,Ensemble Sentiment,Model Agreement,Topic,Topic Match
+FB0350,01/01/2024,Kota Bharu,In-store,1,Air fryer stopped working after a week,Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0037,02/01/2024,Johor Bahru,App,3,A bit pricey but quality is fine,Neutral,Negative,Neutral,Neutral,Neutral,67%,"Price, value & promotion",100%
+FB0176,04/01/2024,Ipoh,In-store,5,Good promotion during Raya sale,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0033,05/01/2024,Johor Bahru,App,3,Arrived on the stated date,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Delivery & fulfillment,100%
+FB0169,08/01/2024,Kuantan,Online,4,"Fast delivery, received next day",Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0238,08/01/2024,Johor Bahru,Online,4,Yoga mat is excellent quality,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0251,08/01/2024,Kuantan,In-store,5,Harga berpatutan,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0020,10/01/2024,Kuantan,In-store,1,Item not as shown in the picture,Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0193,10/01/2024,Petaling Jaya,Online,3,Service biasa sahaja,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Staff service,100%
+FB0195,10/01/2024,Kuantan,Online,4,Great value for money,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0346,11/01/2024,Johor Bahru,App,3,Price is average,Neutral,Neutral,Neutral,Neutral,Neutral,100%,"Price, value & promotion",100%
+FB0005,15/01/2024,Kuantan,In-store,5,Smart speaker works perfectly,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0323,15/01/2024,Alor Setar,Online,1,Cashier was rude,Negative,Negative,Negative,Negative,Negative,100%,Staff service,100%
+FB0110,17/01/2024,Johor Bahru,App,5,"Penghantaran cepat, terima kasih!",Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0102,21/01/2024,Kuala Lumpur,Online,4,Staff explained the product clearly,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0276,22/01/2024,Kota Bharu,Online,3,"Delivery took 3 days, as expected",Neutral,Neutral,Neutral,Neutral,Neutral,100%,Delivery & fulfillment,100%
+FB0028,25/01/2024,Johor Bahru,App,4,"Penghantaran cepat, terima kasih!",Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0219,25/01/2024,Ipoh,In-store,3,Product is ok,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Product quality & defects,100%
+FB0077,26/01/2024,Kuala Lumpur,Online,1,"Ordered online, item never arrived on time",Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0095,26/01/2024,Melaka,App,2,Too expensive compared to online shops,Negative,Negative,Negative,Negative,Negative,100%,"Price, value & promotion",100%
+FB0170,27/01/2024,Kuantan,In-store,5,Love my new air fryer!,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0252,27/01/2024,Alor Setar,In-store,5,Good selection of products,Positive,Positive,Positive,Positive,Positive,100%,Inventory & assortment,100%
+FB0275,29/01/2024,Kuantan,Online,4,"Kualiti bagus, puas hati",Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0075,30/01/2024,Shah Alam,In-store,5,Love my new air fryer!,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0385,01/02/2024,Petaling Jaya,App,5,Well packed and on time,Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0419,01/02/2024,Kuala Lumpur,Online,3,Staff helped after I asked twice,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Staff service,100%
+FB0048,09/02/2024,Kuantan,In-store,2,App keeps crashing at checkout,Negative,Negative,Negative,Negative,Negative,100%,App & checkout,100%
+FB0322,10/02/2024,Kuala Terengganu,Online,5,Great value for money,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0132,13/02/2024,Kuala Lumpur,In-store,2,"Discount only for members, not fair",Negative,Negative,Negative,Negative,Negative,100%,"Price, value & promotion",100%
+FB0183,14/02/2024,Kuantan,In-store,3,A bit pricey but quality is fine,Neutral,Negative,Neutral,Neutral,Neutral,67%,"Price, value & promotion",100%
+FB0327,17/02/2024,Kota Bharu,Online,5,Staff explained the product clearly,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0226,18/02/2024,Alor Setar,In-store,4,Smart speaker works perfectly,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0235,18/02/2024,Johor Bahru,In-store,2,Out of stock again,Negative,Negative,Negative,Negative,Negative,100%,Inventory & assortment,100%
+FB0168,19/02/2024,Johor Bahru,In-store,4,Smart speaker works perfectly,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0120,20/02/2024,Johor Bahru,In-store,5,"Kualiti bagus, puas hati",Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0366,21/02/2024,Penang,In-store,4,"Kualiti bagus, puas hati",Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0334,22/02/2024,Kuala Terengganu,App,4,Kedai selesa dan kemas,Positive,Positive,Positive,Positive,Positive,100%,Store experience,100%
+FB0091,23/02/2024,Shah Alam,In-store,5,Smart speaker works perfectly,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0113,25/02/2024,Penang,App,5,"Pekerja sangat membantu, terbaik!",Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0209,25/02/2024,Seremban,In-store,3,"Mahal sikit, tapi ok",Neutral,Negative,Neutral,Neutral,Neutral,67%,"Price, value & promotion",100%
+FB0289,26/02/2024,Kuala Lumpur,App,5,Cashier was very helpful,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0289,26/02/2024,Kuala Lumpur,App,5,Cashier was very helpful,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0397,28/02/2024,Kuala Lumpur,Online,4,Great value for money,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0417,29/02/2024,Penang,Online,2,Parking is terrible,Negative,Negative,Negative,Negative,Negative,100%,Store experience,100%
+FB0154,02/03/2024,Petaling Jaya,Online,4,Smart speaker works perfectly,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0103,03/03/2024,Kuala Terengganu,App,2,Prices went up again,Negative,Negative,Negative,Negative,Negative,100%,"Price, value & promotion",100%
+FB0231,03/03/2024,Shah Alam,App,2,Product quality has dropped,Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0208,04/03/2024,Kuala Lumpur,In-store,2,Air fryer stopped working after a week,Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0234,04/03/2024,Kuala Lumpur,In-store,4,Kedai selesa dan kemas,Positive,Positive,Positive,Positive,Positive,100%,Store experience,100%
+FB0390,07/03/2024,Petaling Jaya,In-store,2,Wrong colour received,Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0342,08/03/2024,Kuala Terengganu,In-store,5,Yoga mat is excellent quality,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0383,08/03/2024,Kuala Terengganu,In-store,5,Yoga mat is excellent quality,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0036,09/03/2024,Penang,In-store,2,Pekerja kurang mesra,Negative,Negative,Negative,Negative,Negative,100%,Staff service,100%
+FB0204,16/03/2024,Johor Bahru,Online,3,Opening hours could be longer,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Store experience,100%
+FB0293,16/03/2024,Shah Alam,Online,5,Love the new store layout,Positive,Positive,Positive,Positive,Positive,100%,Store experience,100%
+FB0368,17/03/2024,Johor Bahru,In-store,5,Love my new air fryer!,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0061,18/03/2024,Kuala Lumpur,App,5,Cashier was very helpful,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0388,19/03/2024,Kota Bharu,In-store,3,Product is ok,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Product quality & defects,100%
+FB0378,20/03/2024,Johor Bahru,Online,5,Smart speaker works perfectly,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0158,26/03/2024,Kuantan,In-store,1,Long queue and only one cashier,Negative,Negative,Negative,Negative,Negative,100%,Staff service,100%
+FB0162,28/03/2024,Penang,App,5,Love the new store layout,Positive,Positive,Positive,Positive,Positive,100%,Store experience,100%
+FB0084,29/03/2024,Kuala Lumpur,App,5,The manager solved my problem quickly,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0068,30/03/2024,Alor Setar,Online,5,"Pekerja sangat membantu, terbaik!",Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0153,30/03/2024,Ipoh,Online,3,Staff helped after I asked twice,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Staff service,100%
+FB0248,30/03/2024,Kuantan,App,3,A bit pricey but quality is fine,Neutral,Negative,Neutral,Neutral,Neutral,67%,"Price, value & promotion",100%
+FB0339,30/03/2024,Kota Bharu,In-store,4,Harga berpatutan,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0258,31/03/2024,Melaka,In-store,1,Prices went up again,Negative,Negative,Negative,Negative,Negative,100%,"Price, value & promotion",100%
+FB0080,08/04/2024,Ipoh,In-store,5,Harga berpatutan,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0374,12/04/2024,Kuala Lumpur,Online,1,0,Negative,Negative,Negative,Negative,Negative,100%,No comment,0%
+FB0244,14/04/2024,Kuala Lumpur,App,1,Late again. Third time this year.,Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0292,16/04/2024,Penang,Online,2,Staff ignored me at the counter,Negative,Negative,Negative,Negative,Negative,100%,Staff service,100%
+FB0343,21/04/2024,Kota Bharu,Online,5,Friendly team at the counter,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0025,23/04/2024,Kuala Lumpur,In-store,2,Too expensive compared to online shops,Negative,Negative,Negative,Negative,Negative,100%,"Price, value & promotion",100%
+FB0269,25/04/2024,Kota Bharu,In-store,4,Harga berpatutan,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0108,26/04/2024,Ipoh,In-store,4,"Kualiti bagus, puas hati",Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0164,26/04/2024,Seremban,In-store,4,Smart speaker works perfectly,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0207,26/04/2024,Kuala Lumpur,In-store,5,Cheaper than other stores nearby,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0287,26/04/2024,Kota Bharu,In-store,5,Good selection of products,Positive,Positive,Positive,Positive,Positive,100%,Inventory & assortment,100%
+FB0394,27/04/2024,Kota Bharu,App,5,Great value for money,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0259,28/04/2024,Kota Bharu,Online,4,Good promotion during Raya sale,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0115,04/05/2024,Petaling Jaya,In-store,5,Cheaper than other stores nearby,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0172,04/05/2024,Kuala Lumpur,In-store,3,Does the job,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Product quality & defects,100%
+FB0254,04/05/2024,Kuantan,Online,5,Good selection of products,Positive,Positive,Positive,Positive,Positive,100%,Inventory & assortment,100%
+FB0360,07/05/2024,Seremban,App,1,Parking is terrible,Negative,Negative,Negative,Negative,Negative,100%,Store experience,100%
+FB0401,09/05/2024,Shah Alam,App,1,Staff ignored me at the counter,Negative,Negative,Negative,Negative,Negative,100%,Staff service,100%
+FB0201,10/05/2024,Seremban,App,4,Great value for money,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0100,14/05/2024,Kuala Lumpur,In-store,5,Good selection of products,Positive,Positive,Positive,Positive,Positive,100%,Inventory & assortment,100%
+FB0311,14/05/2024,Johor Bahru,App,5,"Fast delivery, received next day",Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0411,15/05/2024,Kuala Lumpur,Online,5,"Penghantaran cepat, terima kasih!",Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0262,16/05/2024,Shah Alam,Online,1,"Discount only for members, not fair",Negative,Negative,Negative,Negative,Negative,100%,"Price, value & promotion",100%
+FB0386,16/05/2024,Melaka,Online,3,Price is average,Neutral,Neutral,Neutral,Neutral,Neutral,100%,"Price, value & promotion",100%
+FB0222,17/05/2024,Johor Bahru,In-store,2,Pekerja kurang mesra,Negative,Negative,Negative,Negative,Negative,100%,Staff service,100%
+FB0222,17/05/2024,Johor Bahru,In-store,2,Pekerja kurang mesra,Negative,Negative,Negative,Negative,Negative,100%,Staff service,100%
+FB0267,20/05/2024,Kota Bharu,In-store,5,Smart speaker works perfectly,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0031,21/05/2024,Kuala Lumpur,In-store,3,Service biasa sahaja,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Staff service,100%
+FB0415,21/05/2024,Kuantan,Online,4,Delivered earlier than promised,Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0059,23/05/2024,Alor Setar,In-store,4,"Pekerja sangat membantu, terbaik!",Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0300,24/05/2024,Ipoh,App,4,Good promotion during Raya sale,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0161,26/05/2024,Johor Bahru,In-store,3,Product is ok,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Product quality & defects,100%
+FB0413,26/05/2024,Ipoh,Online,5,Love my new air fryer!,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0240,27/05/2024,Kuala Lumpur,App,2,Out of stock again,Negative,Negative,Negative,Negative,Negative,100%,Inventory & assortment,100%
+FB0363,31/05/2024,Penang,App,5,Kedai selesa dan kemas,Positive,Positive,Positive,Positive,Positive,100%,Store experience,100%
+FB0121,01/06/2024,Shah Alam,App,5,Delivered earlier than promised,Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0253,07/06/2024,Alor Setar,App,5,"Kualiti bagus, puas hati",Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0139,08/06/2024,Johor Bahru,In-store,4,"Kualiti bagus, puas hati",Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0126,10/06/2024,Petaling Jaya,In-store,1,Prices went up again,Negative,Negative,Negative,Negative,Negative,100%,"Price, value & promotion",100%
+FB0218,10/06/2024,Johor Bahru,Online,3,Service biasa sahaja,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Staff service,100%
+FB0067,11/06/2024,Kuala Lumpur,App,3,Does the job,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Product quality & defects,100%
+FB0089,11/06/2024,Kuala Lumpur,Online,2,Parking is terrible,Negative,Negative,Negative,Negative,Negative,100%,Store experience,100%
+FB0101,14/06/2024,Penang,App,5,"Fast delivery, received next day",Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0223,15/06/2024,Shah Alam,Online,5,"Fast delivery, received next day",Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0023,18/06/2024,Kota Bharu,Online,2,Parking is terrible,Negative,Negative,Negative,Negative,Negative,100%,Store experience,100%
+FB0096,19/06/2024,Kota Bharu,In-store,3,Staff were ok,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Staff service,100%
+FB0246,22/06/2024,Petaling Jaya,Online,4,Cashier was very helpful,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0340,22/06/2024,Melaka,Online,5,Cheaper than other stores nearby,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0414,23/06/2024,Alor Setar,In-store,2,Mahal sangat untuk kualiti macam ni,Negative,Negative,Negative,Negative,Negative,100%,"Price, value & promotion",100%
+FB0344,25/06/2024,Penang,In-store,1,Staff ignored me at the counter,Negative,Negative,Negative,Negative,Negative,100%,Staff service,100%
+FB0179,26/06/2024,Penang,App,1,Tracking showed delivered but nothing came,Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0131,27/06/2024,Kuala Lumpur,Online,4,Love the new store layout,Positive,Positive,Positive,Positive,Positive,100%,Store experience,100%
+FB0055,03/07/2024,Shah Alam,App,3,Product is ok,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Product quality & defects,100%
+FB0387,03/07/2024,Johor Bahru,In-store,3,Price is average,Neutral,Neutral,Neutral,Neutral,Neutral,100%,"Price, value & promotion",100%
+FB0039,04/07/2024,Kuala Lumpur,App,5,"Fast delivery, received next day",Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0376,06/07/2024,Johor Bahru,In-store,2,Long queue and only one cashier,Negative,Negative,Negative,Negative,Negative,100%,Staff service,100%
+FB0354,07/07/2024,Kuala Lumpur,In-store,4,"Pekerja sangat membantu, terbaik!",Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0022,09/07/2024,Ipoh,In-store,3,Does the job,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Product quality & defects,100%
+FB0358,09/07/2024,Alor Setar,In-store,5,Staff explained the product clearly,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0174,14/07/2024,Johor Bahru,In-store,5,Yoga mat is excellent quality,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0308,14/07/2024,Kuala Lumpur,In-store,1,Product quality has dropped,Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0282,17/07/2024,Petaling Jaya,App,5,Well packed and on time,Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0282,17/07/2024,Petaling Jaya,App,5,Well packed and on time,Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0359,18/07/2024,Ipoh,App,5,Staff explained the product clearly,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0257,20/07/2024,Shah Alam,In-store,5,Friendly team at the counter,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0236,22/07/2024,Johor Bahru,Online,5,Staff explained the product clearly,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0040,25/07/2024,Petaling Jaya,Online,5,Smart speaker works perfectly,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0175,25/07/2024,Shah Alam,App,2,Item not as shown in the picture,Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0205,26/07/2024,Johor Bahru,Online,2,Waited two weeks for my delivery,Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0094,29/07/2024,Petaling Jaya,Online,2,Cashier was rude,Negative,Negative,Negative,Negative,Negative,100%,Staff service,100%
+FB0237,29/07/2024,Shah Alam,In-store,5,Harga berpatutan,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0347,30/07/2024,Kuala Terengganu,In-store,5,Great value for money,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0074,01/08/2024,Ipoh,In-store,4,"Kualiti bagus, puas hati",Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0290,01/08/2024,Kuala Lumpur,Online,2,"Stok habis, dah dua kali datang",Negative,Negative,Negative,Negative,Negative,100%,Inventory & assortment,100%
+FB0312,06/08/2024,Melaka,In-store,1,"Discount only for members, not fair",Negative,Negative,Negative,Negative,Negative,100%,"Price, value & promotion",100%
+FB0135,08/08/2024,Petaling Jaya,In-store,1,Long queue and only one cashier,Negative,Negative,Negative,Negative,Negative,100%,Staff service,100%
+FB0019,10/08/2024,Melaka,In-store,4,The manager solved my problem quickly,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0140,12/08/2024,Penang,Online,3,Does the job,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Product quality & defects,100%
+FB0406,12/08/2024,Petaling Jaya,In-store,4,Love my new air fryer!,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0127,14/08/2024,Shah Alam,Online,2,Mahal sangat untuk kualiti macam ni,Negative,Negative,Negative,Negative,Negative,100%,"Price, value & promotion",100%
+FB0181,16/08/2024,Seremban,In-store,1,0,Negative,Negative,Negative,Negative,Negative,100%,No comment,0%
+FB0142,17/08/2024,Kuala Lumpur,Online,3,"Delivery took 3 days, as expected",Neutral,Neutral,Neutral,Neutral,Neutral,100%,Delivery & fulfillment,100%
+FB0123,18/08/2024,Kuala Terengganu,In-store,2,Too expensive compared to online shops,Negative,Negative,Negative,Negative,Negative,100%,"Price, value & promotion",100%
+FB0249,19/08/2024,Melaka,App,4,Rider was polite and punctual,Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0034,20/08/2024,Penang,Online,5,Delivered earlier than promised,Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0180,20/08/2024,Petaling Jaya,In-store,4,Yoga mat is excellent quality,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0345,26/08/2024,Kuala Lumpur,App,5,"Fast delivery, received next day",Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0081,29/08/2024,Johor Bahru,In-store,3,Price is average,Neutral,Neutral,Neutral,Neutral,Neutral,100%,"Price, value & promotion",100%
+FB0299,30/08/2024,Shah Alam,In-store,2,Mahal sangat untuk kualiti macam ni,Negative,Negative,Negative,Negative,Negative,100%,"Price, value & promotion",100%
+FB0291,04/09/2024,Alor Setar,Online,4,Harga berpatutan,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0379,10/09/2024,Penang,In-store,2,Long queue and only one cashier,Negative,Negative,Negative,Negative,Negative,100%,Staff service,100%
+FB0335,13/09/2024,Penang,In-store,2,Prices went up again,Negative,Negative,Negative,Negative,Negative,100%,"Price, value & promotion",100%
+FB0006,14/09/2024,Shah Alam,Online,5,Rider was polite and punctual,Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0408,15/09/2024,Johor Bahru,App,3,"Penghantaran ok, biasa je",Neutral,Neutral,Neutral,Neutral,Neutral,100%,Delivery & fulfillment,100%
+FB0225,25/09/2024,Kuala Lumpur,Online,2,Cashier was rude,Negative,Negative,Negative,Negative,Negative,100%,Staff service,100%
+FB0328,27/09/2024,Penang,App,2,Waited two weeks for my delivery,Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0187,29/09/2024,Kuantan,In-store,5,Friendly team at the counter,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0192,29/09/2024,Alor Setar,Online,5,Well packed and on time,Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0221,29/09/2024,Seremban,Online,1,Staff ignored me at the counter,Negative,Negative,Negative,Negative,Negative,100%,Staff service,100%
+FB0152,01/10/2024,Kuala Lumpur,App,2,Pekerja kurang mesra,Negative,Negative,Negative,Negative,Negative,100%,Staff service,100%
+FB0242,01/10/2024,Kuala Lumpur,Online,1,Prices went up again,Negative,Negative,Negative,Negative,Negative,100%,"Price, value & promotion",100%
+FB0199,02/10/2024,Johor Bahru,App,2,Late again. Third time this year.,Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0336,04/10/2024,Kuala Terengganu,Online,4,Great value for money,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0402,05/10/2024,Kuala Lumpur,App,4,Harga berpatutan,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0044,08/10/2024,Kuala Terengganu,App,5,The manager solved my problem quickly,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0391,08/10/2024,Ipoh,Online,5,Yoga mat is excellent quality,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0319,10/10/2024,Johor Bahru,Online,1,"Stok habis, dah dua kali datang",Negative,Negative,Negative,Negative,Negative,100%,Inventory & assortment,100%
+FB0356,10/10/2024,Shah Alam,In-store,2,Product quality has dropped,Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0369,11/10/2024,Kuala Lumpur,Online,3,"Penghantaran ok, biasa je",Neutral,Neutral,Neutral,Neutral,Neutral,100%,Delivery & fulfillment,100%
+FB0371,11/10/2024,Kota Bharu,Online,5,Well packed and on time,Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0188,13/10/2024,Kuantan,In-store,5,Staff explained the product clearly,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0088,16/10/2024,Kuala Lumpur,In-store,5,"Pekerja sangat membantu, terbaik!",Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0092,17/10/2024,Ipoh,In-store,2,Air fryer stopped working after a week,Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0116,21/10/2024,Penang,App,3,"Delivery took 3 days, as expected",Neutral,Neutral,Neutral,Neutral,Neutral,100%,Delivery & fulfillment,100%
+FB0313,22/10/2024,Kuantan,Online,4,Cheaper than other stores nearby,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0348,22/10/2024,Penang,App,1,Nobody could answer my question about the warranty,Negative,Negative,Positive,Neutral,Negative,33%,Staff service,100%
+FB0198,24/10/2024,Kuala Terengganu,Online,5,Good promotion during Raya sale,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0143,25/10/2024,Melaka,Online,4,Cheaper than other stores nearby,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0093,26/10/2024,Ipoh,Online,1,Parcel came 5 days late,Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0273,26/10/2024,Shah Alam,Online,1,"Ordered online, item never arrived on time",Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0171,28/10/2024,Shah Alam,Online,2,Waited two weeks for my delivery,Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0197,29/10/2024,Kuantan,Online,1,Air fryer stopped working after a week,Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0416,30/10/2024,Kuala Terengganu,App,4,Rider was polite and punctual,Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0362,01/11/2024,Kuala Lumpur,In-store,1,Cashier was rude,Negative,Negative,Negative,Negative,Negative,100%,Staff service,100%
+FB0086,05/11/2024,Seremban,App,2,"Discount only for members, not fair",Negative,Negative,Negative,Negative,Negative,100%,"Price, value & promotion",100%
+FB0136,07/11/2024,Shah Alam,App,3,"Barang ok, macam biasa",Neutral,Neutral,Neutral,Neutral,Neutral,100%,General / other,0%
+FB0012,10/11/2024,Kota Bharu,Online,3,Product is ok,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Product quality & defects,100%
+FB0298,11/11/2024,Penang,In-store,4,Love my new air fryer!,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0148,18/11/2024,Shah Alam,Online,5,"Penghantaran cepat, terima kasih!",Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0305,20/11/2024,Melaka,In-store,2,"Store too hot, aircond not working",Negative,Negative,Negative,Negative,Negative,100%,Store experience,100%
+FB0329,20/11/2024,Penang,Online,5,Staff explained the product clearly,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0004,21/11/2024,Melaka,App,4,Nice clean store,Positive,Positive,Positive,Positive,Positive,100%,Store experience,100%
+FB0029,22/11/2024,Kota Bharu,App,4,0,Positive,Positive,Positive,Positive,Positive,100%,No comment,0%
+FB0042,22/11/2024,Melaka,Online,2,"Stok habis, dah dua kali datang",Negative,Negative,Negative,Negative,Negative,100%,Inventory & assortment,100%
+FB0032,25/11/2024,Petaling Jaya,In-store,4,Yoga mat is excellent quality,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0050,25/11/2024,Kuala Terengganu,Online,5,Delivered earlier than promised,Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0375,25/11/2024,Penang,App,5,Delivered earlier than promised,Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0173,26/11/2024,Melaka,In-store,5,Friendly team at the counter,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0220,29/11/2024,Kuantan,In-store,2,"Discount only for members, not fair",Negative,Negative,Negative,Negative,Negative,100%,"Price, value & promotion",100%
+FB0261,29/11/2024,Alor Setar,In-store,5,Smart speaker works perfectly,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0071,30/11/2024,Kota Bharu,Online,3,"Barang ok, macam biasa",Neutral,Neutral,Neutral,Neutral,Neutral,100%,General / other,0%
+FB0370,01/12/2024,Alor Setar,App,3,Arrived on the stated date,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Delivery & fulfillment,100%
+FB0090,02/12/2024,Kuala Lumpur,App,2,Waited two weeks for my delivery,Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0317,02/12/2024,Penang,Online,2,"Rider called and cancelled, very disappointing",Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0203,03/12/2024,Kuala Lumpur,In-store,5,Friendly team at the counter,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0145,04/12/2024,Ipoh,Online,3,Product is ok,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Product quality & defects,100%
+FB0087,11/12/2024,Penang,In-store,5,Yoga mat is excellent quality,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0105,16/12/2024,Kuantan,Online,1,"Delivery lambat sangat, seminggu baru sampai",Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0030,19/12/2024,Kuala Lumpur,Online,5,"Penghantaran cepat, terima kasih!",Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0272,20/12/2024,Melaka,In-store,3,A bit pricey but quality is fine,Neutral,Negative,Neutral,Neutral,Neutral,67%,"Price, value & promotion",100%
+FB0304,24/12/2024,Penang,In-store,5,Good selection of products,Positive,Positive,Positive,Positive,Positive,100%,Inventory & assortment,100%
+FB0351,04/01/2025,Alor Setar,App,5,Yoga mat is excellent quality,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0118,05/01/2025,Seremban,Online,3,Arrived on the stated date,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Delivery & fulfillment,100%
+FB0202,08/01/2025,Ipoh,App,3,"Mahal sikit, tapi ok",Neutral,Negative,Neutral,Neutral,Neutral,67%,"Price, value & promotion",100%
+FB0049,15/01/2025,Melaka,App,1,Mahal sangat untuk kualiti macam ni,Negative,Negative,Negative,Negative,Negative,100%,"Price, value & promotion",100%
+FB0233,16/01/2025,Penang,Online,1,Air fryer stopped working after a week,Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0274,16/01/2025,Penang,App,2,Long queue and only one cashier,Negative,Negative,Negative,Negative,Negative,100%,Staff service,100%
+FB0306,16/01/2025,Ipoh,In-store,4,"Kualiti bagus, puas hati",Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0367,19/01/2025,Shah Alam,In-store,5,Great value for money,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0002,21/01/2025,Johor Bahru,App,2,"Delivery lambat sangat, seminggu baru sampai",Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0186,21/01/2025,Kuala Terengganu,In-store,2,Pekerja kurang mesra,Negative,Negative,Negative,Negative,Negative,100%,Staff service,100%
+FB0156,22/01/2025,Kuala Terengganu,In-store,5,Love my new air fryer!,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0216,22/01/2025,Seremban,App,4,Cheaper than other stores nearby,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0357,22/01/2025,Kuantan,App,3,Staff were ok,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Staff service,100%
+FB0073,23/01/2025,Kuala Terengganu,App,4,Good promotion during Raya sale,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0315,23/01/2025,Kuala Lumpur,App,4,Love my new air fryer!,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0007,24/01/2025,Petaling Jaya,Online,3,Arrived on the stated date,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Delivery & fulfillment,100%
+FB0013,24/01/2025,Kuala Lumpur,App,3,"Mahal sikit, tapi ok",Neutral,Negative,Neutral,Neutral,Neutral,67%,"Price, value & promotion",100%
+FB0130,26/01/2025,Penang,In-store,4,Good selection of products,Positive,Positive,Positive,Positive,Positive,100%,Inventory & assortment,100%
+FB0128,28/01/2025,Johor Bahru,Online,3,0,Neutral,Neutral,Neutral,Neutral,Neutral,100%,No comment,0%
+FB0228,28/01/2025,Kuala Terengganu,Online,5,Delivered earlier than promised,Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0024,29/01/2025,Alor Setar,App,5,"Fast delivery, received next day",Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0078,30/01/2025,Kuala Lumpur,Online,5,Good selection of products,Positive,Positive,Positive,Positive,Positive,100%,Inventory & assortment,100%
+FB0278,02/02/2025,Petaling Jaya,App,4,Love the new store layout,Positive,Positive,Positive,Positive,Positive,100%,Store experience,100%
+FB0107,04/02/2025,Shah Alam,In-store,5,Yoga mat is excellent quality,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0314,06/02/2025,Shah Alam,In-store,4,Cheaper than other stores nearby,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0409,08/02/2025,Johor Bahru,Online,5,Staff explained the product clearly,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0194,15/02/2025,Johor Bahru,App,2,"Discount only for members, not fair",Negative,Negative,Negative,Negative,Negative,100%,"Price, value & promotion",100%
+FB0062,16/02/2025,Kuala Lumpur,App,5,Rider was polite and punctual,Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0301,16/02/2025,Kuantan,Online,1,"Stok habis, dah dua kali datang",Negative,Negative,Negative,Negative,Negative,100%,Inventory & assortment,100%
+FB0337,20/02/2025,Seremban,In-store,2,"Store too hot, aircond not working",Negative,Negative,Negative,Negative,Negative,100%,Store experience,100%
+FB0353,28/02/2025,Kuala Terengganu,App,5,Rider was polite and punctual,Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0353,28/02/2025,Kuala Terengganu,App,5,Rider was polite and punctual,Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0083,01/03/2025,Kuala Terengganu,In-store,5,Love my new air fryer!,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0338,01/03/2025,Kuantan,Online,2,"Rider called and cancelled, very disappointing",Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0404,01/03/2025,Penang,App,2,"Barang sampai rosak, kotak penyek",Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0286,04/03/2025,Kuala Lumpur,Online,2,Mahal sangat untuk kualiti macam ni,Negative,Negative,Negative,Negative,Negative,100%,"Price, value & promotion",100%
+FB0060,05/03/2025,Petaling Jaya,In-store,4,Kedai selesa dan kemas,Positive,Positive,Positive,Positive,Positive,100%,Store experience,100%
+FB0210,05/03/2025,Kuantan,App,2,Tracking showed delivered but nothing came,Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0125,11/03/2025,Kuala Lumpur,App,3,Does the job,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Product quality & defects,100%
+FB0407,11/03/2025,Penang,App,1,Mahal sangat untuk kualiti macam ni,Negative,Negative,Negative,Negative,Negative,100%,"Price, value & promotion",100%
+FB0051,14/03/2025,Petaling Jaya,In-store,3,Staff helped after I asked twice,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Staff service,100%
+FB0163,16/03/2025,Kuala Lumpur,App,5,Nice clean store,Positive,Positive,Positive,Positive,Positive,100%,Store experience,100%
+FB0256,16/03/2025,Melaka,App,4,Cheaper than other stores nearby,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0361,17/03/2025,Kuala Terengganu,App,3,"Barang ok, macam biasa",Neutral,Neutral,Neutral,Neutral,Neutral,100%,General / other,0%
+FB0215,18/03/2025,Melaka,App,3,Price is average,Neutral,Neutral,Neutral,Neutral,Neutral,100%,"Price, value & promotion",100%
+FB0284,19/03/2025,Kota Bharu,Online,3,Staff were ok,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Staff service,100%
+FB0009,20/03/2025,Johor Bahru,Online,5,Well packed and on time,Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0003,24/03/2025,Kuala Terengganu,Online,4,Good promotion during Raya sale,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0230,25/03/2025,Shah Alam,Online,3,Opening hours could be longer,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Store experience,100%
+FB0058,26/03/2025,Shah Alam,App,4,Good promotion during Raya sale,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0349,27/03/2025,Kuantan,In-store,3,No comment,Neutral,Neutral,Negative,Negative,Negative,67%,No comment,0%
+FB0041,02/04/2025,Johor Bahru,Online,5,Delivered earlier than promised,Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0069,02/04/2025,Alor Setar,App,2,App keeps crashing at checkout,Negative,Negative,Negative,Negative,Negative,100%,App & checkout,100%
+FB0280,03/04/2025,Kuantan,Online,3,"Penghantaran ok, biasa je",Neutral,Neutral,Neutral,Neutral,Neutral,100%,Delivery & fulfillment,100%
+FB0268,07/04/2025,Kuantan,App,3,"Delivery took 3 days, as expected",Neutral,Neutral,Neutral,Neutral,Neutral,100%,Delivery & fulfillment,100%
+FB0330,07/04/2025,Seremban,Online,3,Arrived on the stated date,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Delivery & fulfillment,100%
+FB0144,09/04/2025,Kota Bharu,In-store,4,Yoga mat is excellent quality,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0382,12/04/2025,Penang,Online,5,Cashier was very helpful,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0001,14/04/2025,Shah Alam,In-store,3,Product is ok,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Product quality & defects,100%
+FB0250,17/04/2025,Kuantan,In-store,2,"Stok habis, dah dua kali datang",Negative,Negative,Negative,Negative,Negative,100%,Inventory & assortment,100%
+FB0302,18/04/2025,Penang,In-store,5,Cashier was very helpful,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0114,19/04/2025,Melaka,In-store,4,Harga berpatutan,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0224,19/04/2025,Penang,App,3,"Barang ok, macam biasa",Neutral,Neutral,Neutral,Neutral,Neutral,100%,General / other,0%
+FB0309,20/04/2025,Penang,In-store,3,A bit pricey but quality is fine,Neutral,Negative,Neutral,Neutral,Neutral,67%,"Price, value & promotion",100%
+FB0141,21/04/2025,Kuantan,App,2,"Barang sampai rosak, kotak penyek",Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0106,22/04/2025,Ipoh,Online,1,Cashier was rude,Negative,Negative,Negative,Negative,Negative,100%,Staff service,100%
+FB0124,24/04/2025,Petaling Jaya,App,4,Friendly team at the counter,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0112,25/04/2025,Ipoh,In-store,3,Does the job,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Product quality & defects,100%
+FB0045,26/04/2025,Kuantan,In-store,2,Product quality has dropped,Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0227,27/04/2025,Penang,Online,5,Kedai selesa dan kemas,Positive,Positive,Positive,Positive,Positive,100%,Store experience,100%
+FB0364,28/04/2025,Kuantan,In-store,4,Yoga mat is excellent quality,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0076,29/04/2025,Shah Alam,App,4,Great value for money,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0200,29/04/2025,Kota Bharu,In-store,4,Cashier was very helpful,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0064,01/05/2025,Johor Bahru,Online,5,Love the new store layout,Positive,Positive,Positive,Positive,Positive,100%,Store experience,100%
+FB0213,06/05/2025,Kota Bharu,In-store,5,Kedai selesa dan kemas,Positive,Positive,Positive,Positive,Positive,100%,Store experience,100%
+FB0155,07/05/2025,Johor Bahru,In-store,5,Great value for money,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0373,07/05/2025,Johor Bahru,In-store,5,0,Positive,Positive,Positive,Positive,Positive,100%,No comment,0%
+FB0321,12/05/2025,Kuantan,In-store,1,"Stok habis, dah dua kali datang",Negative,Negative,Negative,Negative,Negative,100%,Inventory & assortment,100%
+FB0380,17/05/2025,Seremban,In-store,4,Yoga mat is excellent quality,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0016,19/05/2025,Petaling Jaya,Online,5,0,Positive,Positive,Positive,Positive,Positive,100%,No comment,0%
+FB0097,19/05/2025,Kuala Terengganu,App,2,Late again. Third time this year.,Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0393,20/05/2025,Kuantan,App,1,Item not as shown in the picture,Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0283,24/05/2025,Kuantan,App,1,Item not as shown in the picture,Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0082,25/05/2025,Johor Bahru,App,5,"Kualiti bagus, puas hati",Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0133,29/05/2025,Kuala Lumpur,Online,5,Good selection of products,Positive,Positive,Positive,Positive,Positive,100%,Inventory & assortment,100%
+FB0255,29/05/2025,Johor Bahru,Online,5,Well packed and on time,Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0245,30/05/2025,Kuala Lumpur,Online,4,Staff explained the product clearly,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0310,30/05/2025,Kuala Lumpur,Online,1,Wrong colour received,Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0065,01/06/2025,Shah Alam,App,2,Waited two weeks for my delivery,Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0065,01/06/2025,Shah Alam,App,2,Waited two weeks for my delivery,Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0015,02/06/2025,Penang,App,5,Rider was polite and punctual,Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0247,02/06/2025,Melaka,In-store,5,Great value for money,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0384,02/06/2025,Kuala Lumpur,Online,1,Mahal sangat untuk kualiti macam ni,Negative,Negative,Negative,Negative,Negative,100%,"Price, value & promotion",100%
+FB0392,05/06/2025,Petaling Jaya,In-store,2,"Stok habis, dah dua kali datang",Negative,Negative,Negative,Negative,Negative,100%,Inventory & assortment,100%
+FB0396,05/06/2025,Kuala Lumpur,In-store,3,Price is average,Neutral,Neutral,Neutral,Neutral,Neutral,100%,"Price, value & promotion",100%
+FB0400,05/06/2025,Kuala Terengganu,App,2,Pekerja kurang mesra,Negative,Negative,Negative,Negative,Negative,100%,Staff service,100%
+FB0053,06/06/2025,Kuantan,Online,2,Too expensive compared to online shops,Negative,Negative,Negative,Negative,Negative,100%,"Price, value & promotion",100%
+FB0211,18/06/2025,Kuantan,Online,5,"Fast delivery, received next day",Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0307,19/06/2025,Johor Bahru,In-store,5,Staff explained the product clearly,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0165,24/06/2025,Ipoh,Online,5,"Pekerja sangat membantu, terbaik!",Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0010,25/06/2025,Petaling Jaya,Online,2,"Barang sampai rosak, kotak penyek",Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0147,25/06/2025,Kota Bharu,Online,3,A bit pricey but quality is fine,Neutral,Negative,Neutral,Neutral,Neutral,67%,"Price, value & promotion",100%
+FB0316,28/06/2025,Penang,Online,5,Love the new store layout,Positive,Positive,Positive,Positive,Positive,100%,Store experience,100%
+FB0377,29/06/2025,Penang,Online,1,Tracking showed delivered but nothing came,Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0318,30/06/2025,Shah Alam,In-store,4,Cheaper than other stores nearby,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0191,04/07/2025,Kuantan,Online,3,"Delivery took 3 days, as expected",Neutral,Neutral,Neutral,Neutral,Neutral,100%,Delivery & fulfillment,100%
+FB0241,05/07/2025,Johor Bahru,Online,4,Nice clean store,Positive,Positive,Positive,Positive,Positive,100%,Store experience,100%
+FB0111,08/07/2025,Alor Setar,App,2,Cashier was rude,Negative,Negative,Negative,Negative,Negative,100%,Staff service,100%
+FB0295,08/07/2025,Ipoh,In-store,5,"Pekerja sangat membantu, terbaik!",Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0243,11/07/2025,Shah Alam,In-store,2,Mahal sangat untuk kualiti macam ni,Negative,Negative,Negative,Negative,Negative,100%,"Price, value & promotion",100%
+FB0079,14/07/2025,Kuala Lumpur,In-store,2,Pekerja kurang mesra,Negative,Negative,Negative,Negative,Negative,100%,Staff service,100%
+FB0217,17/07/2025,Seremban,App,5,Well packed and on time,Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0303,18/07/2025,Ipoh,App,3,Staff helped after I asked twice,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Staff service,100%
+FB0190,19/07/2025,Kuala Lumpur,In-store,2,Air fryer stopped working after a week,Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0277,20/07/2025,Melaka,In-store,5,Cashier was very helpful,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0129,21/07/2025,Kuantan,App,1,Product quality has dropped,Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0320,21/07/2025,Kota Bharu,App,1,Product quality has dropped,Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0324,21/07/2025,Kota Bharu,App,4,"Pekerja sangat membantu, terbaik!",Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0052,24/07/2025,Ipoh,App,4,Delivered earlier than promised,Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0189,29/07/2025,Shah Alam,Online,5,Kedai selesa dan kemas,Positive,Positive,Positive,Positive,Positive,100%,Store experience,100%
+FB0149,30/07/2025,Melaka,Online,4,Love the new store layout,Positive,Positive,Positive,Positive,Positive,100%,Store experience,100%
+FB0281,12/08/2025,Shah Alam,Online,3,"Delivery took 3 days, as expected",Neutral,Neutral,Neutral,Neutral,Neutral,100%,Delivery & fulfillment,100%
+FB0333,12/08/2025,Shah Alam,In-store,5,Harga berpatutan,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0178,13/08/2025,Kuala Lumpur,Online,4,"Fast delivery, received next day",Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0279,17/08/2025,Kuantan,Online,1,"Stok habis, dah dua kali datang",Negative,Negative,Negative,Negative,Negative,100%,Inventory & assortment,100%
+FB0332,17/08/2025,Kuantan,App,2,Item not as shown in the picture,Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0381,17/08/2025,Penang,Online,5,Smart speaker works perfectly,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0134,26/08/2025,Petaling Jaya,App,2,Waited two weeks for my delivery,Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0150,26/08/2025,Shah Alam,In-store,2,Pekerja kurang mesra,Negative,Negative,Negative,Negative,Negative,100%,Staff service,100%
+FB0352,27/08/2025,Petaling Jaya,Online,4,Cheaper than other stores nearby,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0297,29/08/2025,Johor Bahru,In-store,2,Product quality has dropped,Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0260,30/08/2025,Kuantan,App,2,Prices went up again,Negative,Negative,Negative,Negative,Negative,100%,"Price, value & promotion",100%
+FB0085,31/08/2025,Johor Bahru,App,4,"Fast delivery, received next day",Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0399,02/09/2025,Johor Bahru,Online,3,Does the job,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Product quality & defects,100%
+FB0056,05/09/2025,Kuantan,App,3,"Penghantaran ok, biasa je",Neutral,Neutral,Neutral,Neutral,Neutral,100%,Delivery & fulfillment,100%
+FB0265,05/09/2025,Kuala Terengganu,Online,4,Good selection of products,Positive,Positive,Positive,Positive,Positive,100%,Inventory & assortment,100%
+FB0018,07/09/2025,Alor Setar,Online,5,Smart speaker works perfectly,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0038,07/09/2025,Kuala Lumpur,In-store,2,Cashier was rude,Negative,Negative,Negative,Negative,Negative,100%,Staff service,100%
+FB0232,08/09/2025,Petaling Jaya,In-store,5,Cheaper than other stores nearby,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0070,09/09/2025,Kuantan,Online,2,Item not as shown in the picture,Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0326,09/09/2025,Ipoh,Online,5,Good promotion during Raya sale,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0008,14/09/2025,Petaling Jaya,Online,2,"Rider called and cancelled, very disappointing",Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0017,15/09/2025,Shah Alam,App,5,Love the new store layout,Positive,Positive,Positive,Positive,Positive,100%,Store experience,100%
+FB0117,15/09/2025,Kuala Lumpur,In-store,5,Smart speaker works perfectly,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0266,15/09/2025,Kota Bharu,Online,3,Arrived on the stated date,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Delivery & fulfillment,100%
+FB0109,18/09/2025,Petaling Jaya,In-store,5,"Pekerja sangat membantu, terbaik!",Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0119,18/09/2025,Shah Alam,In-store,5,The manager solved my problem quickly,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0151,21/09/2025,Kuala Lumpur,Online,2,Air fryer stopped working after a week,Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0027,22/09/2025,Kuantan,Online,2,Waited two weeks for my delivery,Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0412,22/09/2025,Alor Setar,Online,5,Delivered earlier than promised,Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0043,24/09/2025,Kuala Lumpur,App,5,Cheaper than other stores nearby,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0239,24/09/2025,Melaka,In-store,4,Great value for money,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0185,25/09/2025,Melaka,Online,2,Tracking showed delivered but nothing came,Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0270,27/09/2025,Johor Bahru,App,5,Harga berpatutan,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0063,29/09/2025,Penang,App,2,"Barang sampai rosak, kotak penyek",Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0355,29/09/2025,Petaling Jaya,In-store,3,"Barang ok, macam biasa",Neutral,Neutral,Neutral,Neutral,Neutral,100%,General / other,0%
+FB0263,30/09/2025,Kota Bharu,App,5,Cheaper than other stores nearby,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0395,30/09/2025,Kuala Terengganu,Online,2,Waited two weeks for my delivery,Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0264,02/10/2025,Kuala Terengganu,In-store,2,Product quality has dropped,Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0057,03/10/2025,Kuantan,Online,2,Tracking showed delivered but nothing came,Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0098,04/10/2025,Kuala Lumpur,App,3,"Penghantaran ok, biasa je",Neutral,Neutral,Neutral,Neutral,Neutral,100%,Delivery & fulfillment,100%
+FB0294,04/10/2025,Shah Alam,App,2,Wrong colour received,Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0331,05/10/2025,Johor Bahru,In-store,3,Staff helped after I asked twice,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Staff service,100%
+FB0122,12/10/2025,Shah Alam,App,2,"Rider called and cancelled, very disappointing",Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0372,12/10/2025,Kuantan,App,3,"Delivery took 3 days, as expected",Neutral,Neutral,Neutral,Neutral,Neutral,100%,Delivery & fulfillment,100%
+FB0104,13/10/2025,Shah Alam,In-store,5,Harga berpatutan,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0212,13/10/2025,Kuala Terengganu,App,5,"Fast delivery, received next day",Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0196,17/10/2025,Melaka,App,2,"Stok habis, dah dua kali datang",Negative,Negative,Negative,Negative,Negative,100%,Inventory & assortment,100%
+FB0410,17/10/2025,Seremban,In-store,5,"Pekerja sangat membantu, terbaik!",Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0046,21/10/2025,Ipoh,In-store,2,Product quality has dropped,Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0157,21/10/2025,Penang,In-store,5,The manager solved my problem quickly,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0026,26/10/2025,Kuala Lumpur,In-store,1,Cashier was rude,Negative,Negative,Negative,Negative,Negative,100%,Staff service,100%
+FB0229,27/10/2025,Kuala Lumpur,In-store,3,Staff were ok,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Staff service,100%
+FB0177,28/10/2025,Kuantan,In-store,1,Product quality has dropped,Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0271,28/10/2025,Johor Bahru,In-store,3,"Barang ok, macam biasa",Neutral,Neutral,Neutral,Neutral,Neutral,100%,General / other,0%
+FB0014,30/10/2025,Kuantan,In-store,2,"Discount only for members, not fair",Negative,Negative,Negative,Negative,Negative,100%,"Price, value & promotion",100%
+FB0214,05/11/2025,Petaling Jaya,App,3,Price is average,Neutral,Neutral,Neutral,Neutral,Neutral,100%,"Price, value & promotion",100%
+FB0285,05/11/2025,Alor Setar,In-store,1,"Store too hot, aircond not working",Negative,Negative,Negative,Negative,Negative,100%,Store experience,100%
+FB0011,06/11/2025,Petaling Jaya,App,5,"Kualiti bagus, puas hati",Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0418,08/11/2025,Kuala Lumpur,In-store,4,Smart speaker works perfectly,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0167,09/11/2025,Kuala Terengganu,Online,3,"Mahal sikit, tapi ok",Neutral,Negative,Neutral,Neutral,Neutral,67%,"Price, value & promotion",100%
+FB0206,09/11/2025,Kuantan,App,2,"Barang sampai rosak, kotak penyek",Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0296,16/11/2025,Shah Alam,In-store,5,Good selection of products,Positive,Positive,Positive,Positive,Positive,100%,Inventory & assortment,100%
+FB0021,20/11/2025,Kuala Lumpur,Online,5,Great value for money,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0405,20/11/2025,Seremban,App,3,Staff helped after I asked twice,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Staff service,100%
+FB0099,21/11/2025,Seremban,Online,3,Arrived on the stated date,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Delivery & fulfillment,100%
+FB0137,21/11/2025,Petaling Jaya,App,5,Well packed and on time,Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0160,21/11/2025,Kuala Lumpur,App,5,"Penghantaran cepat, terima kasih!",Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0182,21/11/2025,Kuala Terengganu,In-store,3,A bit pricey but quality is fine,Neutral,Negative,Neutral,Neutral,Neutral,67%,"Price, value & promotion",100%
+FB0184,21/11/2025,Penang,In-store,2,Out of stock again,Negative,Negative,Negative,Negative,Negative,100%,Inventory & assortment,100%
+FB0159,26/11/2025,Seremban,In-store,5,Good promotion during Raya sale,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0138,01/12/2025,Kuala Terengganu,Online,5,Love my new air fryer!,Positive,Positive,Positive,Positive,Positive,100%,Product quality & defects,100%
+FB0325,06/12/2025,Kuala Lumpur,Online,2,Long queue and only one cashier,Negative,Negative,Negative,Negative,Negative,100%,Staff service,100%
+FB0420,07/12/2025,Kuantan,In-store,3,"Mahal sikit, tapi ok",Neutral,Negative,Neutral,Neutral,Neutral,67%,"Price, value & promotion",100%
+FB0035,08/12/2025,Kuantan,In-store,2,Wrong colour received,Negative,Negative,Negative,Negative,Negative,100%,Product quality & defects,100%
+FB0072,10/12/2025,Kota Bharu,App,1,Waited two weeks for my delivery,Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0054,11/12/2025,Kuantan,Online,1,"Delivery lambat sangat, seminggu baru sampai",Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0403,12/12/2025,Shah Alam,Online,5,Well packed and on time,Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0365,16/12/2025,Shah Alam,In-store,2,Out of stock again,Negative,Negative,Negative,Negative,Negative,100%,Inventory & assortment,100%
+FB0146,18/12/2025,Penang,In-store,5,Love the new store layout,Positive,Positive,Positive,Positive,Positive,100%,Store experience,100%
+FB0166,19/12/2025,Johor Bahru,Online,4,Well packed and on time,Positive,Positive,Positive,Positive,Positive,100%,Delivery & fulfillment,100%
+FB0341,21/12/2025,Ipoh,In-store,3,Price is average,Neutral,Neutral,Neutral,Neutral,Neutral,100%,"Price, value & promotion",100%
+FB0288,23/12/2025,Kuala Lumpur,In-store,5,Great value for money,Positive,Positive,Positive,Positive,Positive,100%,"Price, value & promotion",100%
+FB0398,23/12/2025,Melaka,Online,4,The manager solved my problem quickly,Positive,Positive,Positive,Positive,Positive,100%,Staff service,100%
+FB0066,26/12/2025,Kuantan,Online,3,Arrived on the stated date,Neutral,Neutral,Neutral,Neutral,Neutral,100%,Delivery & fulfillment,100%
+FB0389,28/12/2025,Kuantan,Online,2,Tracking showed delivered but nothing came,Negative,Negative,Negative,Negative,Negative,100%,Delivery & fulfillment,100%
+FB0047,30/12/2025,Kuantan,App,3,"Delivery took 3 days, as expected",Neutral,Neutral,Neutral,Neutral,Neutral,100%,Delivery & fulfillment,100%
