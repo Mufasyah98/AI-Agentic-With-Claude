@@ -1,3 +1,22 @@
+# PowerShell Code for check host
+
+Get-NetTCPConnection -State Listen |
+Where-Object {
+    $_.LocalAddress -in @("127.0.0.1", "::1")
+} |
+ForEach-Object {
+    $process = Get-Process -Id $_.OwningProcess -ErrorAction SilentlyContinue
+
+    [PSCustomObject]@{
+        Port = $_.LocalPort
+        PID  = $_.OwningProcess
+        App  = $process.ProcessName
+    }
+} |
+Sort-Object Port |
+Format-Table -AutoSize
+
+
 # AI Agentic with Claude
 
 ## Gmail Human Approval Workflow (Make.com + Claude)
